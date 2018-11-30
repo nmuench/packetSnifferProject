@@ -1,0 +1,1022 @@
+35 Packets captured
+=========== PACKET ===========
+Size : 74 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 60
+	Fragment ID: 21930
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.250
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 45056
+	Destination Port : 53
+	Sequence Num : 0x3500288e
+	ACK Num : 0x288ec2
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 74 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 60
+	Fragment ID: 17728
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 45056
+	Destination Port : 53
+	Sequence Num : 0x3500288e
+	ACK Num : 0x288ec3
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 75 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 61
+	Fragment ID: 17729
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 3328
+	Destination Port : 53
+	Sequence Num : 0x3500298e
+	ACK Num : 0x298ec4
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 75 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 61
+	Fragment ID: 17730
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 38912
+	Destination Port : 53
+	Sequence Num : 0x3500298e
+	ACK Num : 0x298ec4
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 75 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 61
+	Fragment ID: 17731
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 48896
+	Destination Port : 53
+	Sequence Num : 0x3500298e
+	ACK Num : 0x298ec4
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 75 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 61
+	Fragment ID: 17732
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 56576
+	Destination Port : 53
+	Sequence Num : 0x3500298e
+	ACK Num : 0x298ec4
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 74 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 60
+	Fragment ID: 17733
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 3840
+	Destination Port : 53
+	Sequence Num : 0x3500288e
+	ACK Num : 0x288ec3
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 358 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 344
+	Fragment ID: 24833
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.251
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13715
+	Destination Port : 37784
+	Sequence Num : 0x98014452
+	ACK Num : 0x144527a
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 346 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 332
+	Fragment ID: 24834
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.251
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13587
+	Destination Port : 4877
+	Sequence Num : 0xd01382f
+	ACK Num : 0x1382fe0
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 418 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 404
+	Fragment ID: 24835
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.251
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13745
+	Destination Port : 45488
+	Sequence Num : 0xb001805d
+	ACK Num : 0x1805d7f
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 360 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 346
+	Fragment ID: 24836
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.251
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13622
+	Destination Port : 14015
+	Sequence Num : 0xbf0146ca
+	ACK Num : 0x146ca47
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 372 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 358
+	Fragment ID: 24837
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.251
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13590
+	Destination Port : 5853
+	Sequence Num : 0xdd015202
+	ACK Num : 0x1520213
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 350 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 336
+	Fragment ID: 24838
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.251
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13775
+	Destination Port : 53007
+	Sequence Num : 0xf013c25
+	ACK Num : 0x13c2544
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 272 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 258
+	Fragment ID: 50912
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 172.217.0.68
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 46593
+	Destination Port : 443
+	Sequence Num : 0xbb5e070e
+	ACK Num : 0x5e070e4c
+	ACK Flag : 0x0001
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x4c22
+	Checksum : 0x22c1
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 418 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 404
+	Fragment ID: 24839
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.250
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13745
+	Destination Port : 45488
+	Sequence Num : 0xb001805d
+	ACK Num : 0x1805d80
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 446 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 432
+	Fragment ID: 64424
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 1
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.250
+=========== PACKET ===========
+Size : 80 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 66
+	Fragment ID: 17734
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 1536
+	Destination Port : 53
+	Sequence Num : 0x35002e8e
+	ACK Num : 0x2e8ec9
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 60 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 40
+	Fragment ID: 24840
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 172.217.0.68
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 48038
+	Destination Port : 42678
+	Sequence Num : 0xb622c157
+	ACK Num : 0x22c1571e
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x1e5e
+	Checksum : 0x5e07
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 80 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 66
+	Fragment ID: 17735
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 14336
+	Destination Port : 53
+	Sequence Num : 0x35002e8e
+	ACK Num : 0x2e8ec9
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 396 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 382
+	Fragment ID: 24841
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.251
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13705
+	Destination Port : 35128
+	Sequence Num : 0x38016a48
+	ACK Num : 0x16a4872
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 432 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 418
+	Fragment ID: 24842
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 130.127.255.251
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 13774
+	Destination Port : 52742
+	Sequence Num : 0x6018ecf
+	ACK Num : 0x18ecf4b
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 5720 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 5706
+	Fragment ID: 24843
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 172.217.0.68
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 48038
+	Destination Port : 42678
+	Sequence Num : 0xb622c157
+	ACK Num : 0x22c1571e
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x1e5e
+	Checksum : 0x5e07
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 54 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 40
+	Fragment ID: 50913
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 172.217.0.68
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 46593
+	Destination Port : 443
+	Sequence Num : 0xbb5e070f
+	ACK Num : 0x5e070f26
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0000
+	FIN Flag : 0x0001
+	Receive Window : 0x2622
+	Checksum : 0x22c1
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 1608 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 1594
+	Fragment ID: 24847
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 172.217.0.68
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 48038
+	Destination Port : 42678
+	Sequence Num : 0xb622c16d
+	ACK Num : 0x22c16d40
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x405e
+	Checksum : 0x5e07
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 54 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 40
+	Fragment ID: 50914
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 172.217.0.68
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 46593
+	Destination Port : 443
+	Sequence Num : 0xbb5e070f
+	ACK Num : 0x5e070f26
+	ACK Flag : 0x0001
+	RST Flag : 0x0000
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x2622
+	Checksum : 0x22c1
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 6949 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 6935
+	Fragment ID: 24849
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 172.217.0.68
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 48038
+	Destination Port : 42678
+	Sequence Num : 0xb622c173
+	ACK Num : 0x22c17352
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x525e
+	Checksum : 0x5e07
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 54 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 40
+	Fragment ID: 50915
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 172.217.0.68
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 46593
+	Destination Port : 443
+	Sequence Num : 0xbb5e070f
+	ACK Num : 0x5e070f26
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0000
+	Receive Window : 0x2622
+	Checksum : 0x22c1
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 8328 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 8314
+	Fragment ID: 24854
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 172.217.0.68
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 48038
+	Destination Port : 42678
+	Sequence Num : 0xb622c18e
+	ACK Num : 0x22c18e41
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x415e
+	Checksum : 0x5e07
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 54 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 40
+	Fragment ID: 50916
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 172.217.0.68
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 46593
+	Destination Port : 443
+	Sequence Num : 0xbb5e070f
+	ACK Num : 0x5e070f26
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0000
+	Receive Window : 0x2622
+	Checksum : 0x22c1
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 3375 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 3361
+	Fragment ID: 24860
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 172.217.0.68
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 48038
+	Destination Port : 42678
+	Sequence Num : 0xb622c1ae
+	ACK Num : 0x22c1ae93
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x935e
+	Checksum : 0x5e07
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 54 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 40
+	Fragment ID: 50917
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 172.217.0.68
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 46593
+	Destination Port : 443
+	Sequence Num : 0xbb5e070f
+	ACK Num : 0x5e070f26
+	ACK Flag : 0x0001
+	RST Flag : 0x0000
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x2622
+	Checksum : 0x22c1
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 3954 Bytes
+---- Link Layer Information ----
+	Destination MAC: 08:00:27:19:af
+	Source MAC: 52:54:00:12:35
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 3940
+	Fragment ID: 24863
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 172.217.0.68
+	Dest IP Addr : 10.0.2.15
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 48038
+	Destination Port : 42678
+	Sequence Num : 0xb622c1bb
+	ACK Num : 0x22c1bb8c
+	ACK Flag : 0x0000
+	RST Flag : 0x0001
+	SYN Flag : 0x0001
+	FIN Flag : 0x0001
+	Receive Window : 0x8c5e
+	Checksum : 0x5e07
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 54 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 40
+	Fragment ID: 50918
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 6
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 172.217.0.68
+---- Transport Layer Information ----
+	Transport Protocol : TCP
+	Source Port : 46593
+	Destination Port : 443
+	Sequence Num : 0xbb5e070f
+	ACK Num : 0x5e070f26
+	ACK Flag : 0x0000
+	RST Flag : 0x0000
+	SYN Flag : 0x0001
+	FIN Flag : 0x0000
+	Receive Window : 0x2622
+	Checksum : 0x22c1
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 74 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 60
+	Fragment ID: 17761
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 63744
+	Destination Port : 53
+	Sequence Num : 0x3500288e
+	ACK Num : 0x288ec3
+---- Application Layer Information ----
+Application protocol: UNKNOWN
+=========== PACKET ===========
+Size : 74 Bytes
+---- Link Layer Information ----
+	Destination MAC: 52:54:00:12:35
+	Source MAC: 08:00:27:19:af
+	EtherType: 0x0800
+---- Network Layer Information ----
+	IP Version : 4
+	Header Length : 5
+	Data Length : 60
+	Fragment ID: 17762
+	Don't Fragment Flag : 0
+	More Fragments Flag : 0
+	Fragment Offset : 0
+	TTL : 64
+	Protocol Number : 17
+	Checksum : None
+	Source IP Addr : 10.0.2.15
+	Dest IP Addr : 130.127.255.251
+---- Transport Layer Information ----
+	Transport Protocol : UDP
+	Source Port : 3328
+	Destination Port : 53
+	Sequence Num : 0x3500288e
+	ACK Num : 0x288ec3
+---- Application Layer Information ----
+Application protocol: UNKNOWN

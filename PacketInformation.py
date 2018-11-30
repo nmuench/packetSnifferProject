@@ -298,8 +298,8 @@ class PacketInformation:
                 storeAns[i] = storeAns[i] + p
             beginInd = beginInd + 1
 
-        tcp_details['SourcePort'] = self.hexify(storeAns[srcInd])
-        tcp_details['DestPort'] = self.hexify(storeAns[destInd])
+        tcp_details['SourcePort'] = int(self.hexify(storeAns[srcInd]), 16)
+        tcp_details['DestPort'] = int(self.hexify(storeAns[destInd]), 16)
         tcp_details['SeqNum'] = self.hexify(storeAns[seqInd])
         tcp_details['ACKNum'] = self.hexify(storeAns[ackNumInd])
         tcp_details['ACK'] = self.hexify(((storeAns[bitsInd] >> 4) & 1))
@@ -348,8 +348,8 @@ class PacketInformation:
                 storeAns[i] = storeAns[i] + p
             beginInd = beginInd + 1
 
-        udp_details['SourcePort'] = self.hexify(storeAns[srcInd])
-        udp_details['DestPort'] = self.hexify(storeAns[destInd])
+        udp_details['SourcePort'] = int(self.hexify(storeAns[srcInd]), 16)
+        udp_details['DestPort'] = int(self.hexify(storeAns[destInd]), 16)
         udp_details['Length'] = self.hexify(storeAns[lengthInd])
         udp_details['Checksum'] = self.hexify(storeAns[checkInd])
 
