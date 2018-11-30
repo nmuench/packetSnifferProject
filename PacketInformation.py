@@ -474,8 +474,8 @@ class PacketInformation:
         print("\tTransport Protocol : UDP")
         print("\tSource Port : " + str(udp_header_info['SourcePort']))
         print("\tDestination Port : " + str(udp_header_info['DestPort']))
-        print("\tSequence Num : " + str(udp_header_info['Length']))
-        print("\tACK Num : " + str(udp_header_info['Checksum']))
+        print("\tLength : " + str(udp_header_info['Length']))
+        print("\tChecksum : " + str(udp_header_info['Checksum']))
 
         self.print_application_layer_information("UDP", udp_header_info['SourcePort'], udp_header_info['DestPort'], print_filter)
 
