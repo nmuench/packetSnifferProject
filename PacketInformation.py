@@ -185,7 +185,7 @@ class PacketInformation:
 
         # TODO: Complete this function by extracting the ARP header and assigning
         # the values created in the above dictionary
-        beginInd = 15
+        beginInd = 14
         dataArr = [0,1,2,3,4,5,6,7,8]
         storeAns = [0,1,2,3,4,5,6,7,8]
 
@@ -216,23 +216,35 @@ class PacketInformation:
         tpaInd = 8
         dataArr[tpaInd] = 4
 
-        for i in range(0,9):
+        for i in range(0,5):
             #Find the end value
             endInd = beginInd + dataArr[i]
             storeAns[i] = 0
             for p in self.packet_byte_array[beginInd:endInd]:
                 storeAns[i] = storeAns[i] << 8
                 storeAns[i] = storeAns[i] + p
-            beginInd = beginInd + 1
+            beginInd = endInd
+
         arp_details['HTYPE'] = self.hexify(storeAns[hTypeInd])
         arp_details['PTYPE'] = self.hexify(storeAns[pTypeInd])
         arp_details['HLEN'] = self.hexify(storeAns[hLenInd])
         arp_details['PLEN'] = self.hexify(storeAns[pLenInd])
         arp_details['OPER'] = self.hexify(storeAns[operInd])
-        arp_details['SHA'] = self.hexify(storeAns[shaInd])
-        arp_details['SPA'] = self.hexify(storeAns[spaInd])
-        arp_details['THA'] = self.hexify(storeAns[thaInd])
-        arp_details['TPA'] = self.hexify(storeAns[tpaInd])
+
+        endInd = beginInd + dataArr[shaInd]
+        arp_details['SHA'] = self.macify(self.packet_byte_array[beginInd:endInd])
+        beginInd = endInd
+
+        endInd = beginInd + dataArr[spaInd]
+        spaVal = unpack('!4s', self.bytes_tuple_info[0][beginInd:endInd])
+        arp_details['SPA'] = socket.inet_ntoa(spaVal[0])
+        beginInd = endInd
+
+        endInd = beginInd + dataArr[tpaInd] + dataArr[thaInd]
+        s = unpack('!6s4s', self.bytes_tuple_info[0][beginInd: endInd])
+        arp_details['THA'] = self.macify(s[0])
+
+        arp_details['TPA'] = socket.inet_ntoa(s[1])
 
         return arp_details
 
@@ -261,7 +273,7 @@ class PacketInformation:
 
         # TODO: Complete this function by extracting the TCP header and assigning
         # the values created in the above dictionary. Note that ACK, RST, SYN, and FIN are 1 bit flags
-        beginInd = 35
+        beginInd = 34
         sizeArr = [0,1,2,3,4,5,6,7]
         storeAns = [0,1,2,3,4,5,6,7]
 
@@ -296,7 +308,7 @@ class PacketInformation:
             for p in self.packet_byte_array[beginInd:endInd]:
                 storeAns[i] = storeAns[i] << 8
                 storeAns[i] = storeAns[i] + p
-            beginInd = beginInd + 1
+            beginInd = endInd
 
         tcp_details['SourcePort'] = int(self.hexify(storeAns[srcInd]), 16)
         tcp_details['DestPort'] = int(self.hexify(storeAns[destInd]), 16)
@@ -323,7 +335,7 @@ class PacketInformation:
 
         # TODO: Complete this function by extracting the UDP header and assigning
         # the values created in the above dictionary.
-        beginInd = 35
+        beginInd = 34
         sizeArr = [0,1,2,3]
         storeAns = [0,1,2,3]
 
@@ -346,7 +358,7 @@ class PacketInformation:
             for p in self.packet_byte_array[beginInd:endInd]:
                 storeAns[i] = storeAns[i] << 8
                 storeAns[i] = storeAns[i] + p
-            beginInd = beginInd + 1
+            beginInd = endInd
 
         udp_details['SourcePort'] = int(self.hexify(storeAns[srcInd]), 16)
         udp_details['DestPort'] = int(self.hexify(storeAns[destInd]), 16)
